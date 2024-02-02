@@ -12,7 +12,9 @@ The Order of the Cloud Keepers (TOCK) Team was commissioned to perform AWS cloud
 
 ## [Team Documentation](https://github.com/TheOrderoftheCloudKeepers/Project-Documents)
 - [*Team Agreement*](https://docs.google.com/document/d/1ldbTJIrHw68JuYXhpchdvm9e9WmI1jKJzicw9l-D6Jo/edit?usp=drive_link)
-- [*Systems Selection*]()
+- [*Repo & Tooling*](https://docs.google.com/document/d/1IzgDDweYJBPECH09LN8YRHQTMkbVcUcdKaqO6X_bP6g/edit?usp=sharing)
+- [*Systems Selection*](https://docs.google.com/document/d/1UJywRs2buJfA6BNJ9q0edIxuoEyZc0Q_z088Fa603ZY/edit?usp=sharing)
+- [*Map Project Requirements*](https://docs.google.com/document/d/1HXFRCnL1N5ESlfhlOYmHP7rEnV0e7DMMUrncI-hVRQY/edit?usp=sharing)
 - [*Trello - Project Management Tool*](https://trello.com/w/theorderofthecloudkeepers/home)
 - [*TOCK Calendar*]()
 
