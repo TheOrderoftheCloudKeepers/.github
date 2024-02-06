@@ -25,4 +25,4 @@ The Order of the Cloud Keepers (TOCK) Team was commissioned to perform AWS cloud
 - Juan Cano [Juan Cano Github](https://github.com/jmcano50) [Juan Cano LinkeIn](https://www.linkedin.com/in/juan-cano-3021578/)
 - Edwin Pretel [Edwin Pretel Github](https://github.com/EdInTech23) [Edwin Pretel LinkedIn](https://www.linkedin.com/in/preteledwin/)
 - Jaime Angel [Jaime Angel Github](https://github.com/jaimeangelhi) [Jaime Angel LinkedIn](https://www.linkedin.com/in/jaime-angel/)
-
+- Nick Watson [Nick Watson's Github](https://github.com/GODKINGDEATHLORD) [Nick Watson's LinkedIn](https://www.linkedin.com/in/nicolaus-watson/)
