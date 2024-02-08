@@ -17,7 +17,7 @@ The Order of the Cloud Keepers (TOCK) Team was commissioned to perform AWS cloud
 - [*Map Project Requirements*](https://docs.google.com/document/d/1HXFRCnL1N5ESlfhlOYmHP7rEnV0e7DMMUrncI-hVRQY/edit?usp=sharing)
 - [*Trello - Project Management Tool*](https://trello.com/w/theorderofthecloudkeepers/home)
 - [*TOCK Calendar*]()
-
+- [*AWS Infrastructure Security and Cyber Defense Initiative Presentation*](https://docs.google.com/presentation/d/1XBD8g7gf9XYZmOXW47N7zpz4vuxluecNutcryG11PSg/edit?usp=sharing)
   
 # The Order of the Cloud Keepers
 - Michael Roberts [Michaels Roberts Github](https://github.com/Mjroberts7) [Michaels Roberts LinkedIn](https://www.linkedin.com/in/michael-roberts33)
