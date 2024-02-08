@@ -2,7 +2,7 @@
 
 The Order of the Cloud Keepers (TOCK) Team was commissioned to perform AWS cloud infrastructure protection . The project objectives are as follows:
 
-- [*Cloud Architecture Design*]()
+- [*Cloud Architecture Design*](https://drive.google.com/file/d/1ltzEt_kOgD3FvV01ItuQiYPlVg6AjB3_/view?usp=drive_link)
 - [*IAM*]()
 - [*Server Hardening and Data Protection*]()
 - [*SIEM / Log Aggregation System*]()
