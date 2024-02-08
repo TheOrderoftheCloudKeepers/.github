@@ -7,7 +7,7 @@ The Order of the Cloud Keepers (TOCK) Team was commissioned to perform AWS cloud
 - [*Server Hardening and Data Protection*]()
 - [*SIEM / Log Aggregation System*]()
 - [*Cloud Monitoring*](https://docs.google.com/document/d/1uGggJ4yKi1Y63vUMVdERzKXOOFzz61D7TuTXKQPbCLg/edit?usp=sharing)
-- [*Novelty*]()
+- [*Novelty*](https://github.com/TheOrderoftheCloudKeepers/Project-Documents/tree/main/scripts)
 
 
 ## [Team Documentation](https://github.com/TheOrderoftheCloudKeepers/Project-Documents)
