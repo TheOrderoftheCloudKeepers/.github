@@ -4,7 +4,7 @@ The Order of the Cloud Keepers (TOCK) Team was commissioned to perform AWS cloud
 
 - [*Cloud Architecture Design*]()
 - [*IAM*]()
-- [*Server Hardening and Data Protection*]()
+- [*Server Hardening and Data Protection*](https://docs.google.com/document/d/17UNHNaRQq02zGeR3r-ollngv3DbKS91DsTiiZl4Dqsc/edit?usp=sharing)
 - [*SIEM / Log Aggregation System*]()
 - [*Cloud Monitoring*](https://docs.google.com/document/d/1uGggJ4yKi1Y63vUMVdERzKXOOFzz61D7TuTXKQPbCLg/edit?usp=sharing)
 - [*Novelty*]()
