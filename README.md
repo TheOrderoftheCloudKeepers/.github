@@ -17,6 +17,8 @@ The Order of the Cloud Keepers (TOCK) Team was commissioned to perform AWS cloud
 - [*Map Project Requirements*](https://docs.google.com/document/d/1HXFRCnL1N5ESlfhlOYmHP7rEnV0e7DMMUrncI-hVRQY/edit?usp=sharing)
 - [*Trello - Project Management Tool*](https://trello.com/w/theorderofthecloudkeepers/home)
 - [*TOCK Calendar*]()
+- [*Automation*](https://github.com/TheOrderoftheCloudKeepers/Project-Documents/tree/main/scripts)
+- [*Standard Operating Procedures*](https://github.com/TheOrderoftheCloudKeepers/Project-Documents)
 
   
 # The Order of the Cloud Keepers
