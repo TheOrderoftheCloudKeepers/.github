@@ -1,6 +1,6 @@
 # The Order of the Cloud Keepers Project Description
 
-The Order of the Cloud Keepers (TOCK) Team was commissioned to perform AWS cloud infrastructure protection . The project objectives are as follows:
+The Order of the Cloud Keepers (TOCK) Team was commissioned to perform AWS cloud infrastructure protection. The project objectives are as follows:
 
 - [*Cloud Architecture Design*](https://drive.google.com/file/d/1ltzEt_kOgD3FvV01ItuQiYPlVg6AjB3_/view?usp=drive_link)
 - [*IAM*]()
@@ -27,3 +27,6 @@ The Order of the Cloud Keepers (TOCK) Team was commissioned to perform AWS cloud
 - Edwin Pretel [Edwin Pretel Github](https://github.com/EdInTech23) [Edwin Pretel LinkedIn](https://www.linkedin.com/in/preteledwin/)
 - Jaime Angel [Jaime Angel Github](https://github.com/jaimeangelhi) [Jaime Angel LinkedIn](https://www.linkedin.com/in/jaime-angel/)
 - Nick Watson [Nick Watson's Github](https://github.com/GODKINGDEATHLORD) [Nick Watson's LinkedIn](https://www.linkedin.com/in/nicolaus-watson/)
+
+# Live Demonstration
+- From 00:35:50 to end [The Order of the Cloud Keepers Presentation](https://zoom.us/rec/play/LAI77hH4n9caRHIClLV6vylRx9qqcfbg0CFZOQf3Cu7a1CXxjm4rtsHrwGtaASSGx3b9jT6OfnhVLphT.pPk3I5jEEFUKLq5I?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2Faz5xZmPAKiFoszWkyzIjuR-6Gk_cQoI_VL9tuCRKP7fyuJD32paudEW4-XyDuFOV.u43SOVq5zfzZZere)
